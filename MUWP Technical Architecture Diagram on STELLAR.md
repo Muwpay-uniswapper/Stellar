@@ -110,3 +110,6 @@ Depending on the chosen path, the MUWP interacts with the selected service:
 * Finally, the Stellar Network transfers the swapped XLM tokens to the user's designated wallet address. 
 
 **This sequence diagram showcases how the MUWP smart protocol leverages various blockchain services path to find the most efficient and cost-effective route for users to swap XLM from STELLAR across different blockchains.**
+
+
+It's now live
